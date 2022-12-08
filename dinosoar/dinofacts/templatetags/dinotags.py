@@ -12,3 +12,14 @@ def first_letters(iterable):
 
     return result
 
+
+@register.filter(name="nth_letters", is_safe=True)
+def other_letters(iterable, num):
+    result = ""
+    for item in iterable:
+        if len(item) <= num or not item[num - 1].isalpha():
+            result += " "
+        else:
+            result += item[num - 1]
+
+    return result
