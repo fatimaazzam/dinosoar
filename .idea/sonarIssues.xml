@@ -33,7 +33,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/dinosoar/templates/alberto.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dinosoar/templates/apato.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/dinosoar/templates/base.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dinosoar/templates/bronto.html">
           <value>
             <set />
           </value>
@@ -48,7 +63,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/dinosoar/templates/mosa.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/dinosoar/templates/raptor.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dinosoar/templates/rex.html">
           <value>
             <set />
           </value>
